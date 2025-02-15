@@ -21,4 +21,4 @@ El trabajo está compuesto por 3 archivos de entrega, el reporte en formato Jupy
 que se usó en la actividad  y el reporte en formato HTML.
 - [Reporte en ipynb](./A1_6_531712.ipynb)
 - [Reporte en html](./A1_6_531712.html)
-- [Base de datos](./A1.6%20Tiempo%20de%20entrega.csv)
+- [Base de datos](./A1.6%20Tiempo%20de%20Entrega.csv)
